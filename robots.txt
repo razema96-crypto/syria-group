@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://syriagroup-law.com/sitemap.xml
